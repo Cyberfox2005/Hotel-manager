@@ -1,0 +1,1 @@
+[![Architecture diagram of cyberfox2005/hotel-manager](https://gitdiagram.com/cyberfox2005/hotel-manager/diagram.png)](https://gitdiagram.com/cyberfox2005/hotel-manager?utm_source=readme&utm_medium=picture)
